@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+# Lottery
+This is a website that simulates the working of a lottery. The lottery.sol contract is deployed in ethereum blockchain which is not provided in this repo. This repo contains the front end that works with the lottery contract
+
+### Tools used for the Front End
+react, web3 (note: You must have an account in metamask to carry out the transaction through rinkby network)
+
+### tools used for lottery contract (not included)
+solidity, ethereum 
+(highly recommend remix online editor to write the contract as it is helpful fir interacting with your contract then and there)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -39,7 +50,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
