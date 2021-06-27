@@ -4,9 +4,9 @@ This is a website that simulates the working of a lottery. The lottery.sol contr
 ### Tools used for the Front End
 react, web3 (note: You must have an account in metamask to carry out the transaction through rinkby network)
 
-### tools used for lottery contract (not included)
+### Tools used for lottery contract (not included)
 solidity, ethereum 
-(highly recommend remix online editor to write the contract as it is helpful fir interacting with your contract then and there)
+(highly recommend remix online editor to write the contract as it is helpful for interacting with your contract then and there)
 
 
 ## Getting Started with Create React App
